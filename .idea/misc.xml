@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_common" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_manger_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_portal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_sellergoods_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_shop_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pnyougou_sellergoods_service" />
+    <file type="web" url="file://$PROJECT_DIR$/ppinyougou_manger_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../springDataRedisTest/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
